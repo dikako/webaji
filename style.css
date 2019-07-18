@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+
+  padding-bottom: 0.2%;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #2bff00, #ffffff);
+}
+
+.navbar-nav li {
+  padding: 0 10px;
+}
+
+.navbar-nav li a {
+  color: #fff !important;
+  font-weight: 600;
+  float: left;
+  text-align: left;
+}
+
+.fa-bars {
+  color: #fff;
+  font-size: 30px !important;
+}
+
+.navbar-toggler {
+  outline: none !important;
+  padding-bottom: 0.2%;
+}
+
+#banner {
+  background-image: linear-gradient(to right, #2bff00, #ffffff);
+  color: #fff;
+  padding-top: 5%;
+  padding-bottom: 15%;
+}
+
+.title {
+  font-weight: 600;
+  margin-top: 40px;
+}
+
+#banner a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.gambardesc {
+  width: 100%;
+  height: 100%;
+  margin-top: 10px;
+  margin-left: 0%;
+}
+
+.bawah {
+  width: 100%;
+}
+
+.bb {
+  font-size: 15px;
+  color: #fbfbfb;
+  padding: 10px 20px;
+  background: linear-gradient(to left, #22c2ca, #28b583);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: "Krub", sans-serif;
+}
+
+.center-justified {
+  text-align: justify;
+  text-align-last: left;
+}
+
+.bbb {
+  font-size: 15px;
+  color: #fbfbfb;
+  padding: 10px 20px;
+  background: linear-gradient(to left, #5f1782, #a517ba, #5f1782);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: "Krub", sans-serif;
+}
+
+.bbb2 {
+  font-size: 15px;
+  color: #fbfbfb;
+  padding: 10px 20px;
+  background: linear-gradient(to right, #5f1782, #a517ba, #5f1782);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: "Krub", sans-serif;
+}
+
+#services {
+  padding: 80px 0;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: #fff;
+  padding-top: 5%;
+  margin-top: 0.2%;
+  padding-bottom: 15%;
+}
+
+.imgser {
+  width: 100px;
+  margin-top: 20px;
+}
+
+.services {
+  padding: 20px;
+}
+
+.services h4 {
+  padding: 5px;
+  margin-top: 25px;
+  text-transform: uppercase;
+}
+
+.judulser::before {
+  content: "";
+  background: #00d9ff;
+  height: 5px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(63px);
+}
+
+#about-us {
+  padding: 80px 0;
+  background-image: linear-gradient(to right, #5f1782, #a517ba, #5f1782);
+  color: #fff;
+  padding-top: 5%;
+  margin-top: 0.2%;
+}
+
+.gambar-about {
+  width: 80%;
+  height: 80%;
+  margin-top: 10px;
+}
+
+.abouttext {
+  margin-left: 0%;
+}
+
+#foot {
+  background-image: linear-gradient(to right, #5f1782, #a517ba, #5f1782);
+  color: #fff;
+  padding-top: 5%;
+  padding-bottom: 15%;
+}
+
+.gambardescs {
+  width: 100%;
+  height: 100%;
+  margin-top: 10px;
+  margin-left: 0%;
+}
+
+.bbb5 {
+  font-size: 25px;
+  color: #fbfbfb;
+  padding: 10px 20px;
+  background: linear-gradient(to right, #5f1782, #a517ba, #5f1782);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: "Krub", sans-serif;
+}
