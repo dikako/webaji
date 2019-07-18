@@ -16,7 +16,7 @@ body {
 }
 
 .navbar {
-  background-image: linear-gradient(to right, #2bff00, #ffffff);
+  background-image: linear-gradient(to top, #2bff00, #2bff00b4);
 }
 
 .navbar-nav li {
@@ -24,14 +24,14 @@ body {
 }
 
 .navbar-nav li a {
-  color: #fff !important;
+  color: rgb(0, 0, 0) !important;
   font-weight: 600;
   float: left;
   text-align: left;
 }
 
 .fa-bars {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 30px !important;
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 #banner {
-  background-image: linear-gradient(to right, #2bff00, #ffffff);
+  background-image: linear-gradient(to top, #2bff00, #2bff00b4, #2bff00);
   color: #fff;
   padding-top: 5%;
   padding-bottom: 15%;
@@ -49,7 +49,8 @@ body {
 
 .title {
   font-weight: 600;
-  margin-top: 40px;
+  margin-top: 55px;
+  color: rgb(0, 0, 0);
 }
 
 #banner a {
@@ -70,9 +71,9 @@ body {
 
 .bb {
   font-size: 15px;
-  color: #fbfbfb;
+  color: #000000;
   padding: 10px 20px;
-  background: linear-gradient(to left, #22c2ca, #28b583);
+  background: linear-gradient(to left, #ffc400f1, #facb2ff1);
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -86,9 +87,9 @@ body {
 
 .bbb {
   font-size: 15px;
-  color: #fbfbfb;
+  color: #000000;
   padding: 10px 20px;
-  background: linear-gradient(to left, #5f1782, #a517ba, #5f1782);
+  background: linear-gradient(to left, #ffc400f1, #facb2ff1);
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -97,9 +98,9 @@ body {
 
 .bbb2 {
   font-size: 15px;
-  color: #fbfbfb;
+  color: #000000;
   padding: 10px 20px;
-  background: linear-gradient(to right, #5f1782, #a517ba, #5f1782);
+  background: linear-gradient(to right, #ffc400f1, #facb2ff1);
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -182,4 +183,11 @@ body {
   border-radius: 10px;
   cursor: pointer;
   font-family: "Krub", sans-serif;
+}
+
+.deskripsis {
+  color: rgb(0, 0, 0);
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15x;
 }
