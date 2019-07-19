@@ -16,7 +16,7 @@ body {
 }
 
 .navbar {
-  background-image: linear-gradient(to top, #2bff00, #2bff00b4);
+  background-image: linear-gradient(to top, #0ae00a, #00ff00);
 }
 
 .navbar-nav li {
@@ -41,7 +41,7 @@ body {
 }
 
 #banner {
-  background-image: linear-gradient(to top, #2bff00, #2bff00b4, #2bff00);
+  background-image: linear-gradient(to top, #00ff00, #00ff00c2, #0cd80c);
   color: #fff;
   padding-top: 5%;
   padding-bottom: 15%;
@@ -65,15 +65,21 @@ body {
   margin-left: 0%;
 }
 
+.gambardesc2 {
+  width: 100%;
+  height: 100%;
+  margin-top: 10px;
+}
+
 .bawah {
   width: 100%;
 }
 
 .bb {
   font-size: 15px;
-  color: #000000;
+  color: #ffcf0f;
   padding: 10px 20px;
-  background: linear-gradient(to left, #ffc400f1, #facb2ff1);
+  background: linear-gradient(to left, #5b5c3f, #5b5c3f);
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -87,9 +93,9 @@ body {
 
 .bbb {
   font-size: 15px;
-  color: #000000;
+  color: #2e2e25;
   padding: 10px 20px;
-  background: linear-gradient(to left, #ffc400f1, #facb2ff1);
+  background: linear-gradient(to right, #f5c91b, #fad027);
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -98,9 +104,9 @@ body {
 
 .bbb2 {
   font-size: 15px;
-  color: #000000;
+  color: #ffcf0f;
   padding: 10px 20px;
-  background: linear-gradient(to right, #ffc400f1, #facb2ff1);
+  background: linear-gradient(to left, #5b5c3f, #5b5c3f);
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -109,7 +115,7 @@ body {
 
 #services {
   padding: 80px 0;
-  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  background-image: linear-gradient(to top, #09e009, #00ff00c2, #0ae70afa);
   color: #fff;
   padding-top: 5%;
   margin-top: 0.2%;
@@ -144,7 +150,7 @@ body {
 
 #about-us {
   padding: 80px 0;
-  background-image: linear-gradient(to right, #5f1782, #a517ba, #5f1782);
+  background-image: linear-gradient(to right, #1df10a, #14df47, #1df10a);
   color: #fff;
   padding-top: 5%;
   margin-top: 0.2%;
@@ -161,10 +167,10 @@ body {
 }
 
 #foot {
-  background-image: linear-gradient(to right, #5f1782, #a517ba, #5f1782);
+  background-image: linear-gradient(to right, #1df10a, #14df47, #14df47);
   color: #fff;
   padding-top: 5%;
-  padding-bottom: 15%;
+  padding-bottom: 3%;
 }
 
 .gambardescs {
@@ -176,9 +182,9 @@ body {
 
 .bbb5 {
   font-size: 25px;
-  color: #fbfbfb;
+  color: #2e2e25;
   padding: 10px 20px;
-  background: linear-gradient(to right, #5f1782, #a517ba, #5f1782);
+  background: linear-gradient(to right, #f5c91b, #fad027);
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -190,4 +196,9 @@ body {
   padding-left: 15px;
   padding-top: 15px;
   padding-bottom: 15x;
+}
+
+.gambar-logo {
+  height: 10%;
+  width: 10%;
 }
