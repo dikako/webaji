@@ -205,3 +205,21 @@ body {
 .warna-judul {
   color: rgb(0, 0, 0);
 }
+
+.gambardes {
+  width: 550px;
+  height: 350px;
+  opacity: 0.9;
+  filter: alpha(opacity=10);
+  border: 2px solid #bda74e;
+}
+
+.deskripsi-border {
+  border: 1px solid #bda74e;
+}
+
+.button-list {
+  color: #000000;
+  background-color: #00ff0000;
+  border: 0px;
+}
