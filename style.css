@@ -214,6 +214,12 @@ body {
   border: 2px solid #bda74e;
 }
 
+.container {
+  width: 96%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .deskripsi-border {
   border: 1px solid #bda74e;
 }
@@ -222,4 +228,8 @@ body {
   color: #000000;
   background-color: #00ff0000;
   border: 0px;
+}
+
+.hint {
+  color: red;
 }
