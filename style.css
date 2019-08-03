@@ -116,7 +116,7 @@ body {
 #services {
   padding: 80px 0;
   background-image: linear-gradient(to top, #09e009, #00ff00c2, #0ae70afa);
-  color: #fff;
+  color: rgb(0, 0, 0);
   padding-top: 5%;
   margin-top: 0.2%;
   padding-bottom: 5%;
@@ -193,8 +193,8 @@ body {
 
 .deskripsis {
   color: rgb(0, 0, 0);
-  padding-top: 15px;
-  padding-bottom: 15x;
+  padding-top: -30px;
+  padding-bottom: 0x;
 }
 
 .gambar-logo {
@@ -207,11 +207,12 @@ body {
 }
 
 .gambardes {
-  width: 550px;
-  height: 350px;
+  width: 330px;
+  height: auto;
   opacity: 0.9;
   filter: alpha(opacity=10);
   border: 2px solid #bda74e;
+  text-align: left;
 }
 
 .container {
