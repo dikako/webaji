@@ -172,6 +172,7 @@ body {
 }
 
 #foot {
+  margin-top: 0.2%;
   background-image: linear-gradient(to right, #1df10a, #14df47, #14df47);
   color: rgb(0, 0, 0);
   padding-top: 5%;
@@ -238,4 +239,12 @@ body {
 
 .hint {
   color: red;
+}
+
+#footer {
+  margin-top: 0.2%;
+  background-image: linear-gradient(to right, #1df10a, #14df47, #14df47);
+  color: rgb(0, 0, 0);
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
