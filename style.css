@@ -113,7 +113,7 @@ body {
   font-family: "Krub", sans-serif;
 }
 
-#services {
+#mkk {
   padding: 80px 0;
   background-image: linear-gradient(to top, #09e009, #00ff00c2, #0ae70afa);
   color: rgb(0, 0, 0);
@@ -123,10 +123,15 @@ body {
 }
 
 .imgser {
-  width: 100px;
+  width: 330px;
   margin-top: 20px;
 }
 
+.imgsers {
+  width: 330px;
+  height: 192px;
+  margin-top: 20px;
+}
 .services {
   padding: 20px;
 }
@@ -148,10 +153,10 @@ body {
   transform: translateY(63px);
 }
 
-#about-us {
+#produk {
   padding: 80px 0;
   background-image: linear-gradient(to right, #1df10a, #14df47, #1df10a);
-  color: #fff;
+  color: rgb(0, 0, 0);
   padding-top: 5%;
   margin-top: 0.2%;
 }
@@ -168,7 +173,7 @@ body {
 
 #foot {
   background-image: linear-gradient(to right, #1df10a, #14df47, #14df47);
-  color: #fff;
+  color: rgb(0, 0, 0);
   padding-top: 5%;
   padding-bottom: 3%;
 }
